@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ngu3eyHZhldtpInw1S2eSwL5t+ewANF0XC+lUz4XRO/OBeBinD/1mxc5HnPlLHns9zeK+VtDXVP+6ketiFLXjg==",
+  "dgSpecHash": "62ElMgLzzePHRfl/USc4HljGIS3hjSawFpu3ulGh/9qVVMhPZA9fzpixEwVMgQwGdkQQrKN0Po78uZs9ZVWttQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zaid.shaikh\\source\\repos\\AzureTest\\AzureTest\\AzureTest.csproj",
+  "projectFilePath": "C:\\Users\\zaid.shaikh\\source\\repos\\AzureTest\\AzureTest\\AzureDemo\\AzureTest\\AzureTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zaid.shaikh\\.nuget\\packages\\microsoft.aspnetcore.authentication.azuread.ui\\3.1.3\\microsoft.aspnetcore.authentication.azuread.ui.3.1.3.nupkg.sha512",
     "C:\\Users\\zaid.shaikh\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.3\\microsoft.aspnetcore.authentication.jwtbearer.3.1.3.nupkg.sha512",
